@@ -3321,7 +3321,7 @@ input, select, textarea {
 
 		.wrapper.mcity {
 			background-color: #2e3141;
-			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.9), rgba(46, 49, 65, 0.4)), url("../../images/McityMe.Jpg");
+			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.9), rgba(46, 49, 65, 0.4)), url("../../images/McityMe.jpg");
 			background-size: cover, cover;
 			background-attachment: fixed,fixed;
 			background-position: center center, 75% 60%;
