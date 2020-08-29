@@ -3335,6 +3335,13 @@ input, select, textarea {
 			background-position: center,left;
 		}
 
+		@media screen and (max-width: 500px) {
+			.wrapper.drew, .wrapper.aa, .wrapper.mcity, .wrapper.code {
+				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.9), rgba(46, 49, 65, 0.4));
+			}
+
+		}
+
 		.wrapper.fullscreen {
 			display: -moz-flex;
 			display: -webkit-flex;
