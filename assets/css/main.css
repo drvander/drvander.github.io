@@ -2544,7 +2544,7 @@ input, select, textarea {
 			margin: 0 0 1.3em 0;
 		}
 
-		.icon.major:hover {
+		.icon.major.brands:hover {
 			background: #83AFE4;
 			color: #ffffff;
 			border-radius: 25%;
