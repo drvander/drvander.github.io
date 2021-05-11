@@ -3329,7 +3329,7 @@ input, select, textarea {
 
 		.wrapper.code {
 			background-color: #2e3141;
-			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.9), rgba(46, 49, 65, 0.4)), url("../../images/Code.jpg");
+			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.9), rgba(46, 49, 65, 0.4)), url("../../images/claws-work-a.png");
 			background-size: cover, cover;
 			background-attachment: fixed,fixed;
 			background-position: center,left;
